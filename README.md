@@ -14,4 +14,4 @@ Este projeto da primeira aula consistiu em criar toda uma análise em cima de fa
 
 Segue projeto no PowerBI
 
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=4f156d6a-b48b-4e17-b289-b0f713689815&autoAuth=true&ctid=7ac12efa-2494-4ee4-88b7-26bfeaa77a48&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/reportEmbed?reportId=4f156d6a-b48b-4e17-b289-b0f713689815&autoAuth=true&ctid=7ac12efa-2494-4ee4-88b7-26bfeaa77a48&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
